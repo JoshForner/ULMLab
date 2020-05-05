@@ -1,0 +1,13 @@
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.exe
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.deps.json
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.runtimeconfig.json
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.runtimeconfig.dev.json
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.dll
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\bin\Debug\netcoreapp3.1\UMLLab.pdb
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.csprojAssemblyReference.cache
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.csproj.CoreCompileInputs.cache
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.AssemblyInfoInputs.cache
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.AssemblyInfo.cs
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.dll
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.pdb
+C:\Users\forne\source\repos\CSHARP\UMLLab\UMLLab\obj\Debug\netcoreapp3.1\UMLLab.genruntimeconfig.cache
